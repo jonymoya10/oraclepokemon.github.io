@@ -42,4 +42,4 @@ Buen proyecto!
 Actividad
 
 
-AQUI: 
+AQUI: https://jonymoya10.github.io/oraclepokemon.github.io/
